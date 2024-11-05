@@ -92,7 +92,6 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
-}
 
 class InfoCard extends StatelessWidget {
   // Card information that displays the title and content.
